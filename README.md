@@ -8,3 +8,12 @@ command lines:
 
 **Note:** On te creation of projects, we use Apache maven v 3.6.1
 
+> **ACCUM**
+
+Program the accum function, which has the behavior of the following examples, that complies with the test cases defined in the AccumClsTest class.
+
+> Examples:
+* accum("abcd") -> A-Bb-Ccc-Dddd
+* accum("RqaEzty") -> R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy
+* accum("cwAt") -> C-Ww-Aaa-Tttt
+
