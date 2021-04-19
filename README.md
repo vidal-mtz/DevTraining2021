@@ -18,4 +18,3 @@ The task is to make a function that can take any non-negative integer as an argu
 * orderNumbers(145263) -> 654321
 * orderNumbers(1254859723) -> 9875543221
 
-> **Note:** this examples use JUnit Lib  v4.13.1
