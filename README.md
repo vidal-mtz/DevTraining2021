@@ -10,3 +10,11 @@ command lines:
 * On te creation of projects, we use Apache maven v 3.6.1 
 * This examples use JUnit Lib  v4.13.1
 
+> **Isogram**
+
+An isogram is a word that has no repeating, consecutive, or non-consecutive letters. Implement a function that determines whether a string containing only letters is an isogram. Suppose the empty string is an isogram. Ignore upper and lower case.
+
+> Example:
+* isIsograma("dermatoglyphics") -> true
+* isIsograma("mooose") -> false
+* isIsograma("aba") -> false
