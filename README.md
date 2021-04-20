@@ -6,7 +6,9 @@ command lines:
 * Clean project - mvn clean
 * Test the algorithm with Test Unit - mvn test
 
-**Note:** On te creation of projects, we use Apache maven v 3.6.1
+**Notes:** 
+* On te creation of projects, we use Apache maven v 3.6.1 
+* This examples use JUnit Lib  v4.13.1
 
 > **ACCUM**
 
